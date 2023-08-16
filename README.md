@@ -9,15 +9,20 @@ This project is a Big Data Modelling project in order to bring out the real time
 5. The total amount generated from a trip including fare_amount, extra, mta_tax, tip_amount, tolls_amount and improvement surcharge.
 
 ## Project Description
-1. Visualised the raw data into Fact and Dimension tables using Lucidcharts.com
-2. Wrote the transformation logic using Pandas in Python to model the Big Data as per the planned format on Jupyter notebooks
-3. Extracted the the Dimension tables from the Big Data using Python and connected them with the Fact table using Primary and Foreign keys
-4. Implemented the Data Loader, Transformer and Data Exporter, ETL Pipeline using Mage.Ai, to finally convert the 100k column Raw data into the said Structure.
-5. Migrated the transformed Data to Google Cloud Platform.
-6. Loaded the transformed data into bigQuery on Google Cloud Platform
-7. Analysed and ran queries on 15000KB+ data using MySQL on bigQuery
-8. Grouped and Joined the Dimension tables with the Fact table
-9. Presented the final data on the dashboard, created using Google’s Looker Studio for analysing the refined data.
+ADITYA SHARMA
+~ Visualised the raw data into Fact and Dimension tables using Lucidcharts.com
+~ Wrote the transformation logic using Pandas in Python to model the Big Data as per the planned format on Jupyter notebooks
+~ Extracted the the Dimension tables from the Big Data using Python and connected them with the Fact table using Primary and Foreign keys
+
+ADITYA MISHRA
+~ Implemented the Data Loader, Transformer and Data Exporter, ETL Pipeline using Mage.Ai, to finally convert the 100k column Raw data into the said Structure.
+~ Migrated the transformed Data to Google Cloud Platform.
+~ Loaded the transformed data into bigQuery on Google Cloud Platform
+
+ANKIT GHOSH
+~ Analysed and ran queries on 15000KB+ data using MySQL on bigQuery
+~ Grouped and Joined the Dimension tables with the Fact table
+~ Presented the final data on the dashboard, created using Google’s Looker Studio for analysing the refined data.
 
 
 
