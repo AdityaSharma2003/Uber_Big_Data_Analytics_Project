@@ -12,7 +12,7 @@ This project is a Big Data Modelling project in order to bring out the real time
 ADITYA SHARMA<br />
 ~ Visualised the raw data into Fact and Dimension tables using Lucidcharts.com<br />
 ~ Wrote the transformation logic using Pandas in Python to model the Big Data as per the planned format on Jupyter notebooks<br />
-~ Extracted the the Dimension tables from the Big Data using Python and connected them with the Fact table using Primary and Foreign keys<br />
+~ Extracted the Dimension tables from the Big Data using Python and connected them with the Fact table using Primary and Foreign keys<br />
 
 ADITYA MISHRA<br />
 ~ Implemented the Data Loader, Transformer and Data Exporter, ETL Pipeline using Mage.Ai, to finally convert the 100k column Raw data into the said Structure.<br />
@@ -38,7 +38,7 @@ https://lookerstudio.google.com/s/rramPly6jJw
 
 **Google Cloud Platform:** Google Storage, Big Query, Looker Studio
 
-**Moder Data Pipeline Tool:** https://www.mage.ai/
+**Modern Data Pipeline Tool:** https://www.mage.ai/
 
 
 ## Architecture
